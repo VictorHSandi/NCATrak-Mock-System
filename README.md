@@ -5,7 +5,7 @@
 This software aims to give professors at the [University of Oklahoma Health Science Center](https://www.ouhsc.edu/) a mock database where they can simulate tests on data input to improve the data validity and quality for child advocacy centers.
 
 NOTE: This is a continuation of the project that is being worked on for the Computer Science Capstone of the University of Oklahoma for Spring 2025.
-We plan to continue to develop a mock NCAtrak data input/search system used at real Child Advocacy Centers in U.S., and be able to collect biometric data such as mouse movement data, keylogging data, and visually observed data, using many areas of interests (AOIs) defined within each form of the mock NCAtrak data input/search system. 
+We plan to continue to develop a mock NCAtrak data input/search system used at real Child Advocacy Centers in U.S., and be able to collect biometric data such as mouse movement data, keylogging data, and visually observed data, using many areas of interests (AOIs) defined within each form of the mock NCAtrak data input/search system. To accomplish this we will be using Python with Anaconda, ReactJS, Tailwind CSS, and PostgreSQL.
 The mock system can be helpful for the potential National Institute of Health (NIH) project collaborations between DSA (ISE) and OUHSC.
 
 ## Requirements
