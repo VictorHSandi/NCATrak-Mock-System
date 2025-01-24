@@ -4,6 +4,8 @@
 
 This software aims to give professors at the [University of Oklahoma Health Science Center](https://www.ouhsc.edu/) a mock database where they can simulate tests on data input to improve the data validity and quality for child advocacy centers.
 
+NOTE: This is a continuation of the project that is being worked on for the Computer Science Capstone of the University of Oklahoma.
+
 ## Requirements
 
 -   [Anaconda](https://docs.anaconda.com/)
